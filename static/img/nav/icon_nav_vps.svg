@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="54px" viewBox="0 0 54 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 60.1 (101010) - https://sketch.com -->
+    <title>F48B2647-1D93-4251-B2F1-F45A75E1A665</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <circle id="path-1" cx="26.547486" cy="26.547486" r="26.547486"></circle>
+    </defs>
+    <g id="Nav-updates" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="nav_card-dropdown_pro-hosting-types" transform="translate(-105.000000, -59.000000)">
+            <g id="nav_card-dropdown_hosting-types" transform="translate(80.000000, 25.000000)">
+                <g id="row_list-big_web-hosting" transform="translate(25.000000, 34.000000)">
+                    <g id="icon_nav_vps">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Graphic-Placeholder" fill="#FBCE3B" xlink:href="#path-1"></use>
+                        <g id="Group-12" mask="url(#mask-2)">
+                            <g transform="translate(-4.424581, 6.194413)">
+                                <polygon id="Path-11" fill="#FFFFFF" points="18.0089336 21.4435056 30.6807163 0 35.7289854 24.2018137 26.8689595 35.8874214"></polygon>
+                                <polygon id="Path-12" fill="#EBEFF3" points="30.6807163 0 43.2186752 21.2687162 35.7289854 24.2018137"></polygon>
+                                <polygon id="Path-13" fill="#4480C5" points="42.3994364 4.70929753 22.8902933 34.9673981 36.9496957 47.6960326 50.3118316 43.1314551"></polygon>
+                                <polygon id="Path-14" fill="#3A679D" points="50.3118316 43.1314551 58.2242269 28.7706377 42.3994364 4.70929753"></polygon>
+                                <polygon id="Path-9" fill="#FF8D4E" points="0.677946054 33.4176851 14.1206355 14.2651198 24.7245068 49.5553073"></polygon>
+                                <polygon id="Path-10" fill="#E76F2C" points="41.3810667 52.2100559 24.7245068 50.8826816 14.1206355 14.2651198"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

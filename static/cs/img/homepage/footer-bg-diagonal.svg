@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="300px" viewBox="0 0 1920 300" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Rectangle Copy</title>
+    <g id="Style-Guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id=".o-footer__fos-xl" fill="#F5F6F8">
+            <g id=".o-footer__bg-xl">
+                <g>
+                    <g id="Rectangle-Copy">
+                        <polygon transform="translate(960.000000, 149.538737) scale(-1, -1) translate(-960.000000, -149.538737) " points="0 5.68434189e-14 1920 5.68434189e-14 1920 0.944638792 0 299.077474"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

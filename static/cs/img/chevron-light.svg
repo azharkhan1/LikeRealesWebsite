@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>a-glyph__chevron-right</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Atoms/Glyphs/.a-glyph__chevron-right">
+            <g id=".a-glyph__chevron-right" transform="translate(11.000000, 11.000000) rotate(-90.000000) translate(-11.000000, -11.000000) translate(-0.000000, -0.000000)">
+                <rect id="Rectangle" opacity="0" x="0" y="0" width="22" height="22"></rect>
+                <polygon id="Path-5" fill="#2E93EE" points="17.773184 4 22 8.31910506 11 18.0499691 0 8.26732813 4.3441328 4.05177693 11 10"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

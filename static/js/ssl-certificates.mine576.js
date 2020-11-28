@@ -1,0 +1,1 @@
+"use strict";function createLottieAnimation(t){lottie.loadAnimation({container:document.getElementById("lottie-hero"),path:"/animations/"+t+".json",renderer:"svg",loop:!0,autoplay:!0})}document.addEventListener("DOMContentLoaded",function(){createLottieAnimation("ssl-cert-hero")});

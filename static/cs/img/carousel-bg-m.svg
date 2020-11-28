@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="847px" height="473px" viewBox="0 0 847 473" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>o-bg__trapezoid-noscew-m -blue</title>
+    <defs>
+        <polygon id="path-1" points="0 1.26032518e-12 847 1.26032518e-12 847 473 0 473"></polygon>
+    </defs>
+    <g id="Style-Guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id=".o-bg__trapezoid-noscew-m--blue">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Blue-BG" fill="#1F2044" xlink:href="#path-1"></use>
+            <polygon id="Right-BG-Triangle" fill="#191936" mask="url(#mask-2)" points="949 -71 949 484 494 -71"></polygon>
+            <polygon id="Left-BG-Triangle" fill="#191936" mask="url(#mask-2)" points="-36 49 302 486 -36 486"></polygon>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="53px" viewBox="0 0 43 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>spam-protection_white_icon_01</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 51.2526 42.016 51.2526 42.016 -0.0004 0 -0.0004"></polygon>
+    </defs>
+    <g id="-HG-Domain-Privacy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="XL-HG-Homepage-02" transform="translate(-939.000000, -1746.000000)">
+            <g id="xl_add-ons_base" transform="translate(0.000000, 1582.000000)">
+                <g id="Selector" transform="translate(570.000000, 139.000000)">
+                    <g id="Website-Back-Up-Copy" transform="translate(265.000000, 0.000000)">
+                        <g id="spam-protection_white_icon_01" transform="translate(104.000000, 26.000000)">
+                            <path d="M0.5,27.7526 L0.5,46.7526 C0.5,46.7526 0.5,50.7526 4.5,50.7526 L37.5,50.7526 C37.5,50.7526 41.5,50.7526 41.5,46.7526 L41.5,27.7526" id="Stroke-1" stroke="#FFFFFF"></path>
+                            <path d="M2,49.7526 L16.322,37.5266" id="Stroke-3" stroke="#FFFFFF"></path>
+                            <path d="M40,49.7526 L25.983,37.1556" id="Stroke-5" stroke="#FFFFFF"></path>
+                            <polyline id="Stroke-7" stroke="#FFFFFF" points="0.0039 27.7526 3.9999 27.7526 21.1469 41.3536"></polyline>
+                            <polyline id="Stroke-9" stroke="#FFFFFF" points="42.0157 27.7526 38.0197 27.7526 20.6107 41.3536"></polyline>
+                            <path d="M39.5501255,27.7526 L39.5498,4.7856 C39.5498,4.7856 39.6748,0.4596 35.0258,0.4596 L11.4988,0.4596 L2.4498,9.9116 L2.4498,27.7526" id="Stroke-11" stroke="#FFFFFF" stroke-width="0.92"></path>
+                            <polyline id="Stroke-13" stroke="#FFFFFF" stroke-width="0.92" points="2.4502 9.9117 11.6492 9.9117 11.6492 0.4597"></polyline>
+                            <path d="M14.25,22.2965 L17.677,22.2965 L22.877,31.5145 C22.877,31.5145 23.113,32.0465 23.822,31.5145 C24.531,30.9825 25.3,28.2055 23.822,24.3645 L31.681,24.4235 C31.681,24.4235 33.174,24.7185 33.195,23.1825 C33.217,21.6465 35.285,11.2475 30.204,11.2475 C25.122,11.2475 18.918,13.6695 14.25,13.3155 L14.25,22.2965 Z" id="Stroke-15" stroke="#FFFFFF" stroke-width="1.028"></path>
+                            <path d="M29.5703,15.5895 L33.6303,15.5895" id="Stroke-17" stroke="#FFFFFF" stroke-width="1.028"></path>
+                            <path d="M29.167,18.358 L33.63,18.358" id="Stroke-19" stroke="#FFFFFF" stroke-width="1.028"></path>
+                            <path d="M29.167,20.9488 L33.63,20.9488" id="Stroke-21" stroke="#FFFFFF" stroke-width="1.028"></path>
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Clip-24"></g>
+                            <polygon id="Stroke-23" stroke="#FFFFFF" stroke-width="1.04" mask="url(#mask-2)" points="11.091 22.5226 14.25 22.5226 14.25 13.2386 11.091 13.2386"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
